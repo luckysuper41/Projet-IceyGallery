@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Projet-IceyGallery/static/css/main.bc33a3cf.chunk.css",
+    "main.js": "/Projet-IceyGallery/static/js/main.08d214bc.chunk.js",
+    "main.js.map": "/Projet-IceyGallery/static/js/main.08d214bc.chunk.js.map",
+    "runtime-main.js": "/Projet-IceyGallery/static/js/runtime-main.f9e3dd5d.js",
+    "runtime-main.js.map": "/Projet-IceyGallery/static/js/runtime-main.f9e3dd5d.js.map",
+    "static/js/2.f8c2349d.chunk.js": "/Projet-IceyGallery/static/js/2.f8c2349d.chunk.js",
+    "static/js/2.f8c2349d.chunk.js.map": "/Projet-IceyGallery/static/js/2.f8c2349d.chunk.js.map",
+    "index.html": "/Projet-IceyGallery/index.html",
+    "precache-manifest.e507c4df5e3bb9d98b09424c74620202.js": "/Projet-IceyGallery/precache-manifest.e507c4df5e3bb9d98b09424c74620202.js",
+    "service-worker.js": "/Projet-IceyGallery/service-worker.js",
+    "static/css/main.bc33a3cf.chunk.css.map": "/Projet-IceyGallery/static/css/main.bc33a3cf.chunk.css.map",
+    "static/js/2.f8c2349d.chunk.js.LICENSE.txt": "/Projet-IceyGallery/static/js/2.f8c2349d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9e3dd5d.js",
+    "static/js/2.f8c2349d.chunk.js",
+    "static/css/main.bc33a3cf.chunk.css",
+    "static/js/main.08d214bc.chunk.js"
+  ]
+}
